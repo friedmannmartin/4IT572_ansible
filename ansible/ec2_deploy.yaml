@@ -1,3 +1,4 @@
+
 - name: Deploy to EC2
   host: localhost
   connection: local
